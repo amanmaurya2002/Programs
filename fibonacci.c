@@ -3,8 +3,7 @@
 void fibonacci(int i1, int i2, int n);
 
 int main(void){
-	printf("This programs prints fibonacci sequence up to a given index.\n\n);
-printf("Hello, World!\n");
+	printf("This programs prints fibonacci sequence up to a given index.\n\n");
 int n;
 do{
 	printf("Enter the number( > 2) of numbers in the fibonacci sequence you want: ");
