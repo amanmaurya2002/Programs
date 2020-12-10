@@ -3,6 +3,7 @@
 void fibonacci(int i1, int i2, int n);
 
 int main(void){
+	printf("This programs prints fibonacci sequence up to index.\n\n);
 printf("Hello, World!\n");
 int n;
 do{
